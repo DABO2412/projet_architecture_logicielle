@@ -1,0 +1,22 @@
+nav ul li{
+    display: inline flex;
+    margin-left: 5%;
+    align-items: center;
+}
+body{
+    background-color: #d8d9da;
+}
+.btn-nav{
+    padding: 25%;
+    background-color: white;
+    color: blue;
+    border: 0px;
+    font-size: larger;
+}
+
+.article{
+    display: inline-block;
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+}
